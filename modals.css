@@ -1,0 +1,26 @@
+.modal {
+  display: none;
+  position: fixed;
+  z-index: 1;
+  overflow: scroll;
+  background: rgba(0, 0, 0, 0.5);
+}
+
+button {
+  background: #007bff;
+  font-family: sans-serif;
+  border-radius: 3px;
+  padding: 5px;
+}
+
+.modal.is-visible {
+  display: block;
+}
+
+.modal.is-visible .modal-dialog {
+  opacity: 1;
+  visibility: visible;
+  transition-delay: 0s;
+}
+
+/*# sourceMappingURL=modals.css.map */

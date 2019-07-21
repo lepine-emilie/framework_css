@@ -1,0 +1,15 @@
+.img-circle {
+  border-radius: 180px;
+}
+
+.img-thumbnail {
+  border: 1px solid #dee2e6;
+  border-radius: 0.25rem;
+}
+
+.img-blur {
+  -webkit-filter: blur(5px);
+  filter: blur(5px);
+}
+
+/*# sourceMappingURL=image.css.map */

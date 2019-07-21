@@ -1,0 +1,81 @@
+.text-primary {
+  color: #007bff;
+}
+
+.text-secondary {
+  color: #6c757d;
+}
+
+.text-success {
+  color: #28a745;
+}
+
+.text-danger {
+  color: #dc3545;
+}
+
+.text-warning {
+  color: #ffc107;
+}
+
+.text-info {
+  color: #17a2b8;
+}
+
+.text-light {
+  color: #f8f9fa;
+}
+
+.text-dark {
+  color: #343a40;
+}
+
+.bg-primary {
+  background: #007bff;
+  color: white;
+}
+
+.bg-secondary {
+  background: #6c757d;
+  color: white;
+}
+
+.bg-success {
+  background: #28a745;
+  color: white;
+}
+
+.bg-danger {
+  background: #dc3545;
+  color: white;
+}
+
+.bg-warning {
+  background: #ffc107;
+  color: white;
+}
+
+.bg-info {
+  background: #17a2b8;
+  color: white;
+}
+
+.bg-light {
+  background: #f8f9fa;
+  color: white;
+}
+
+.bg-dark {
+  background: #343a40;
+  color: white;
+}
+
+.text-muted {
+  color: grey;
+}
+
+.text-white {
+  color: white;
+}
+
+/*# sourceMappingURL=txt.css.map */

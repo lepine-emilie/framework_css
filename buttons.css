@@ -1,0 +1,120 @@
+.btn {
+  border-radius: 0.25rem;
+  background: #007bff;
+  color: #ffffff;
+  padding: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+  box-shadow: none;
+}
+
+.btn-primary {
+  background: #007bff;
+  border-color: #007bff;
+}
+.btn-primary:active, .btn-primary.active {
+  background: #003166;
+  text-decoration: none;
+}
+.btn-primary:disabled, .btn-primary.disabled {
+  background: #99caff;
+}
+
+.btn-secondary {
+  background: #6c757d;
+  border-color: #6c757d;
+}
+.btn-secondary:active, .btn-secondary.active {
+  background: #25282b;
+  text-decoration: none;
+}
+.btn-secondary:disabled, .btn-secondary.disabled {
+  background: #bcc1c6;
+}
+
+.btn-success {
+  background: #28a745;
+  border-color: #28a745;
+}
+.btn-success:active, .btn-success.active {
+  background: #0a2c12;
+  text-decoration: none;
+}
+.btn-success:disabled, .btn-success.disabled {
+  background: #86e29b;
+}
+
+.btn-danger {
+  background: #dc3545;
+  border-color: #dc3545;
+}
+.btn-danger:active, .btn-danger.active {
+  background: #66121a;
+  text-decoration: none;
+}
+.btn-danger:disabled, .btn-danger.disabled {
+  background: #f3b7bd;
+}
+
+.btn-warning {
+  background: #ffc107;
+  border-color: #ffc107;
+}
+.btn-warning:active, .btn-warning.active {
+  background: #6d5200;
+  text-decoration: none;
+}
+.btn-warning:disabled, .btn-warning.disabled {
+  background: #ffe7a0;
+}
+
+.btn-info {
+  background: #17a2b8;
+  border-color: #17a2b8;
+}
+.btn-info:active, .btn-info.active {
+  background: #062a30;
+  text-decoration: none;
+}
+.btn-info:disabled, .btn-info.disabled {
+  background: #7adeee;
+}
+
+.btn-light {
+  background: #f8f9fa;
+  border-color: #f8f9fa;
+  color: black;
+}
+.btn-light:active, .btn-light.active {
+  background: #9fadba;
+  text-decoration: none;
+}
+.btn-light:disabled, .btn-light.disabled {
+  background: white;
+}
+
+.btn-dark {
+  background: #343a40;
+  border-color: #343a40;
+}
+.btn-dark:active, .btn-dark.active {
+  background: black;
+  text-decoration: none;
+}
+.btn-dark:disabled, .btn-dark.disabled {
+  background: #7a8793;
+}
+
+.btn-sm {
+  font-size: 0.875rem;
+  border-radius: 0.2rem;
+  padding: 0.25rem 0.5rem;
+}
+
+.btn-lg {
+  font-size: 1.25rem;
+  border-radius: 0.3rem;
+  padding: 0.5rem 1rem;
+}
+
+/*# sourceMappingURL=buttons.css.map */
